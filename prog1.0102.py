@@ -121,3 +121,11 @@ def search_closest_sequence(sequence):
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+my linkedin:
+https://www.linkedin.com/in/shahinjavanmard/
